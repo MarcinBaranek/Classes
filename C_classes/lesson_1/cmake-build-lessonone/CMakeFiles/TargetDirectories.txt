@@ -1,0 +1,3 @@
+/Users/marcinbaranek/code/Classes/C_classes/lesson_1/cmake-build-lessonone/CMakeFiles/App.dir
+/Users/marcinbaranek/code/Classes/C_classes/lesson_1/cmake-build-lessonone/CMakeFiles/edit_cache.dir
+/Users/marcinbaranek/code/Classes/C_classes/lesson_1/cmake-build-lessonone/CMakeFiles/rebuild_cache.dir

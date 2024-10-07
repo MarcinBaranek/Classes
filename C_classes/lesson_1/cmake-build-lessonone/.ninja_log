@@ -1,0 +1,6 @@
+# ninja log v6
+28	63	1728329663019157301	App	c6741321d3aef8d5
+2	28	1728329662993007377	CMakeFiles/App.dir/is_prime.c.o	e05e1d114dc5d2ce
+2	25	1728329662993135622	CMakeFiles/App.dir/test_is_prime.c.o	4a4fe84c5f11cd48
+2	24	1728329662992718307	CMakeFiles/App.dir/main.c.o	effd49fdfcb58319
+1	43	1728329691864990893	build.ninja	d73bae1d5e4c7ff7
