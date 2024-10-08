@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+*main
+*cmake-build-*/
 
 # Linker output
 *.ilk
